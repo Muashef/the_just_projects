@@ -1,55 +1,63 @@
 *{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 body{
-    /* padding: 20px; */
-    font-family: Arial, sans-serif;
-    font-weight: normal;
-    font-size: 16px;
-    text-align: center;
-    padding: 80px 0;
-    background-color: aqua;
+  font-family: Arial, sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  text-align: center;
+  padding: 80px 0;
+  background-color: aqua;
 }
 
-  .container {
-    padding: 20px;
-  }
+#about{
+  background-color: black;
+  padding: 15px;
+  color: bisque;
+}
 
-  .interest{
-    margin-top: 30px;
-  }
+.container {
+  padding: 20px;
+}
 
-  h1 {
-    text-align: center;
-    font-weight: bold;
-    font-size: 36px;
-  }
+.interest{
+  margin-top: 30px;
+}
 
-  p{
-    margin-top: 8px;
-  }
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 36px;
+}
 
-  a {
-    text-decoration: none;
-    color: bisque;
-  }
+p{
+  margin-top: 8px;
+}
 
-  .btns{
-    margin-top: 30px;
-  }
+.git{
+  color: red;
+}
 
-  button{
-    padding: 12px 20px;
-    color: bisque;
-    font-size: 16px;
-    border-radius: 18px;
-    background-color: black;
-    margin-left: 6px;
-  }
+a{
+  text-decoration: none;
+  color: bisque;
+}
 
+.btns{
+  margin-top: 30px;
+}
+
+button{
+  padding: 12px 20px;
+  color: bisque;
+  font-size: 16px;
+  border-radius: 18px;
+  background-color: black;
+  margin-left: 6px;
+}
 
 
 
